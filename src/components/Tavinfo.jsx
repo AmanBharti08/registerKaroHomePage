@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { SiTicktick } from "react-icons/si";
 
-import logo from "../assets/logo.webp";
+import logo from "../assets/Logo.webp";
 import dots from "../assets/dots.svg";
 
 const Tavinfo = () => {
