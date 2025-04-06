@@ -93,19 +93,19 @@ const Tavinfo = () => {
             <div className="relative  w-full h-full flex justify-center items-center ">
               <img src={dots} alt="" className="absolute" />
               <img src={logo} alt="" />
-              <div className="animate-bounce absolute flex items-center justify-center gap-2 shadow-sm p-2 top-32 left-1 text-center bg-white w-[180px] text-sm  shadow-[#FFA229]">
+              <div className="animate-bounce absolute flex items-center justify-center gap-2 shadow-md p-2 top-32 left-1 text-center bg-white w-[180px] text-sm  shadow-[#FFA229]">
                 <h1>20,000+</h1>
                 <p>Clients all over India</p>
               </div>
-              <div className="absolute flex items-center justify-center gap-2 shadow-sm p-2 top-10 left-20 bg-white w-[200px] text-[15px] text-center  shadow-[#FFA229]">
+              <div className="absolute flex items-center justify-center gap-2 shadow-md p-2 top-10 left-20 bg-white w-[200px] text-[15px] text-center  shadow-[#FFA229]">
                 <h1>250+</h1>
                 <p>Professionals Network</p>
               </div>
-              <div className=" absolute flex items-center justify-center gap-2 shadow-sm p-2 bottom-20 right-2 bg-white w-[180px] text-[15px] text-center  shadow-[#FFA229]">
+              <div className=" absolute flex items-center justify-center gap-2 shadow-md p-2 bottom-20 right-2 bg-white w-[180px] text-[15px] text-center  shadow-[#FFA229]">
                 <h1>500+</h1>
                 <p>Businesses Incorporated Every Month</p>
               </div>
-              <div className="absolute flex items-center justify-center gap-2 shadow-sm p-2 bottom-36 left-1 bg-white w-[180px] text-center text-[15px]  shadow-[#FFA229]">
+              <div className="absolute flex items-center justify-center gap-2 shadow-md p-2 bottom-36 left-1 bg-white w-[180px] text-center text-[15px]  shadow-[#FFA229]">
                 <h1>100+</h1>
                 <p>Ratings</p>
               </div>
