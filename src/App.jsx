@@ -1,4 +1,5 @@
 import "./App.css";
+import Attention from "./components/Attention";
 import Hero from "./components/Hero";
 // import Navbar from "./components/Navbar";
 import Phonecontact from "./components/Phonecontact";
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <WhatWeOffer />
       <Phonecontact/>
+      <Attention/>
     </div>
   );
 }

@@ -28,34 +28,34 @@ const Phonecontact = () => {
           </h1>
         </div>
         <div className=" w-[40%] absolute right-0 top-9 flex flex-wrap gap-5">
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1" >
             <img src={pic1} alt="" className="w-20" />
           </div>{" "}
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={adobe} alt="" className="w-20" />
           </div>{" "}
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={amazon} alt="" className="w-20" />
           </div>{" "}
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={amd} alt="" className="w-20" />
           </div>{" "}
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={dell} alt="" className="w-20" />
           </div>{" "}
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={google} alt="" className="w-20" />
           </div>{" "}
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={huawei} alt="" className="w-20" />
           </div>
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={hp} alt="" className="w-14" />
           </div>
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={lee} alt="" className="w-20" />
           </div>
-          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md">
+          <div className="w-[50px] h-[50px] bg-white flex justify-center items-center z-50 rounded-md p-1">
             <img src={slack} alt="" className="w-20" />
           </div>
         </div>
