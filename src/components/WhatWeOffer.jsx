@@ -6,7 +6,7 @@ const WhatWeOffer = () => {
   return (
     <div className="mt-5  relative bg-slate-800 flex justify-center items-center">
       <div className="text-black z-20 flex gap-1 absolute w-[95%]">
-        <div className="bg-white rounded-lg text-center items-center p-2 w-1/4 flex flex-col gap-2 hover:animate-bounce">
+        <div className="bg-white rounded-lg text-center shadow-sm shadow-[#F5F5F5] items-center p-2 w-1/4 flex flex-col gap-2 hover:animate-bounce">
           <p className="text-[12px] h-[50%] border-b-2">
             Small business & Startup Accounts
           </p>
@@ -17,7 +17,7 @@ const WhatWeOffer = () => {
             <FaArrowCircleRight className="text-[#FFA229]" />
           </button>
         </div>
-        <div className="bg-white rounded-lg text-center items-center p-2 w-1/4 flex flex-col gap-2">
+        <div className="bg-white rounded-lg text-center shadow-sm shadow-[#F5F5F5] items-center p-2 w-1/4 flex flex-col gap-2">
           <p className="text-[12px] h-[50%] border-b-2">
             Growing Business Package
           </p>
@@ -28,7 +28,7 @@ const WhatWeOffer = () => {
             <FaArrowCircleRight className="text-[#FFA229]" />
           </button>
         </div>
-        <div className="bg-white rounded-lg text-center items-center p-2  w-1/4 flex flex-col gap-2">
+        <div className="bg-white rounded-lg text-center shadow-sm shadow-[#F5F5F5] items-center p-2  w-1/4 flex flex-col gap-2">
           <p className="text-[12px] h-[50%] border-b-2">
             Scale-Up Company Offer
           </p>
@@ -39,7 +39,7 @@ const WhatWeOffer = () => {
             <FaArrowCircleRight className="text-[#FFA229]" />
           </button>
         </div>
-        <div className="bg-white rounded-lg text-center items-center p-2 w-1/4 flex flex-col gap-2">
+        <div className="bg-white rounded-lg text-center shadow-sm shadow-[#F5F5F5] items-center p-2 w-1/4 flex flex-col gap-2">
           <p className="text-[12px] h-[50%] border-b-2">
             Setting up a business
           </p>

@@ -26,7 +26,7 @@ const Tavinfo = () => {
   };
 
   return (
-    <div className=" w-[90%] h-[70vh] flex flex-col justify-between items-center">
+    <div className=" w-[95%] h-[70vh] flex flex-col justify-between items-center">
       <div className=" w-full h-full">
         <div className="w-full h-full ">
           {whyUs && (
