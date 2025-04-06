@@ -10,7 +10,9 @@ const WhatWeOffer = () => {
           <p className="text-[12px] h-[50%] border-b-2">
             Small business & Startup Accounts
           </p>
-          <p className="font-semibold text-xs">Number of employees 0 - 10</p>
+          <p className="font-semibold text-xs">
+            Number of employees <br /> 0 - 10
+          </p>
           <button>
             <FaArrowCircleRight className="text-[#FFA229]" />
           </button>
@@ -19,7 +21,9 @@ const WhatWeOffer = () => {
           <p className="text-[12px] h-[50%] border-b-2">
             Growing Business Package
           </p>
-          <p className="font-semibold text-xs">Number of employees 11 - 50</p>
+          <p className="font-semibold text-xs">
+            Number of employees <br /> 11 - 50
+          </p>
           <button>
             <FaArrowCircleRight className="text-[#FFA229]" />
           </button>
@@ -28,7 +32,9 @@ const WhatWeOffer = () => {
           <p className="text-[12px] h-[50%] border-b-2">
             Scale-Up Company Offer
           </p>
-          <p className="font-semibold text-xs">Number of employees 50 +</p>
+          <p className="font-semibold text-xs">
+            Number of employees <br /> 50 +
+          </p>
           <button>
             <FaArrowCircleRight className="text-[#FFA229]" />
           </button>
